@@ -1,0 +1,14 @@
+[
+  {
+    "name"  : "multimeter",
+    "image" : "multimeter.png"
+  },
+  {
+    "name"  : "colored-pencils",
+    "image" : "colored-pencils.png"
+  },
+  {
+    "name"  : "jockey",
+    "image" : "jockey.png"
+  }
+]
